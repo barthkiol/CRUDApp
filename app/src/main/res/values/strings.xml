@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CRUDapp</string>
+    <string name="nome_obrigatorio">Nome é de preenchimento obrigatório!</string>
+    <string name="registro_salvo_sucesso">Salvo com sucesso!</string>
+</resources>
